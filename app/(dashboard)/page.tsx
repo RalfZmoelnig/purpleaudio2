@@ -14,6 +14,8 @@ import {
 } from 'lucide-react';
 import { Terminal } from './terminal';
 import ImpressumModal from '@/components/ImpressumModal';
+import PrivacyModal from '@/components/PrivacyModal';
+import TermsModal from '@/components/TermsModal';
 
 export default function HomePage() {
   return (
@@ -261,8 +263,8 @@ export default function HomePage() {
             <h4 className="text-sm font-semibold text-gray-900">Rechtliches</h4>
             <ul className="mt-4 space-y-2 text-sm text-gray-600">
               <li><ImpressumModal linkClassName="hover:text-gray-900" /></li>
-              <li><a href="#" className="hover:text-gray-900">Datenschutzerklärung</a></li>
-              <li><a href="#" className="hover:text-gray-900">AGB</a></li>
+              <li><PrivacyModal linkClassName="hover:text-gray-900" /></li>
+              <li><TermsModal linkClassName="hover:text-gray-900" /></li>
             </ul>
           </div>
           <div>
