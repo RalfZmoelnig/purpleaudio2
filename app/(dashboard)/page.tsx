@@ -24,7 +24,7 @@ export default function HomePage() {
             <div className="sm:text-center md:max-w-2xl md:mx-auto lg:col-span-6 lg:text-left">
               <h1 className="text-4xl font-bold text-gray-900 tracking-tight sm:text-5xl md:text-6xl">
                 Transkription & Untertitel
-                <span className="block text-purple-700">für YouTube & Podcasts</span>
+                <span className="block text-purple-700">für YouTube</span>
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
                 Purple.Audio ist Audiotranskription 5.0 – schnelle, akkurate und sichere
