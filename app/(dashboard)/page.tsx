@@ -30,9 +30,9 @@ export default function HomePage() {
                 <span className="block text-purple-700">für YouTube</span>
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
-                Purple.Audio ist Audiotranskription 5.0 – schnelle, akkurate und sichere
-                Transkription sowie Untertitelung für Creator, Influencer und Teams.
-                Lade dein Video hoch, erhalte in Minuten saubere Texte und exportiere
+                Purple.Audio ist Transkription und Untertitelung 2.0 – schnelle, akkurate und sichere
+                Transkription sowie Untertitelung für Ihre Videos.
+                Laden Sie Ihr Video hoch, und erhalten Sie in Sekunden saubere Texte und exportieren
                 Untertitel in den gängigen Formaten.
               </p>
               <div className="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0">
